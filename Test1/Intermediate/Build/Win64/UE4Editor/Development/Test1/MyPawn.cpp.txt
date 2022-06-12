@@ -1,0 +1,3 @@
+C:\Users\USER\Desktop\UnityGame\Test1\Intermediate\Build\Win64\UE4Editor\Development\Test1\Definitions.Test1.h
+C:\Users\USER\Desktop\UnityGame\Test1\Source\Test1\MyPawn.h
+C:\Users\USER\Desktop\UnityGame\Test1\Intermediate\Build\Win64\UE4Editor\Inc\Test1\MyPawn.generated.h
