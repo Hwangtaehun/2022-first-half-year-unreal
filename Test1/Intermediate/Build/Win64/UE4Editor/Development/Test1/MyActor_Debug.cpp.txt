@@ -1,3 +1,0 @@
-C:\Users\USER\Desktop\UnityGame\Test1\Intermediate\Build\Win64\UE4Editor\Development\Test1\Definitions.Test1.h
-C:\Users\USER\Desktop\UnityGame\Test1\Source\Test1\MyActor_Debug.h
-C:\Users\USER\Desktop\UnityGame\Test1\Intermediate\Build\Win64\UE4Editor\Inc\Test1\MyActor_Debug.generated.h
