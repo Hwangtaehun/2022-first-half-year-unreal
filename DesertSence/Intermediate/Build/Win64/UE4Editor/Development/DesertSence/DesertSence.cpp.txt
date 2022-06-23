@@ -1,0 +1,2 @@
+C:\Users\r283\Desktop\Github\2022-first-half-year-unreal\DesertSence\Intermediate\Build\Win64\UE4Editor\Development\DesertSence\Definitions.DesertSence.h
+C:\Users\r283\Desktop\Github\2022-first-half-year-unreal\DesertSence\Source\DesertSence\DesertSence.h

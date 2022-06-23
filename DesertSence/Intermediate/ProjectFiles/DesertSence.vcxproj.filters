@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DesertSence.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1161C3B0-6A97-4B93-95A5-F48C8DC9A927}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DesertSence.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DesertSenceEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B16D5CC8-675A-4006-8236-C0F2C8CAEFAD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DesertSence">
+      <UniqueIdentifier>{719A4DBE-2A0E-4D01-A73A-7497EA4151BF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DesertSence\DesertSence.Build.cs">
+      <Filter>Source\DesertSence</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DesertSence\DesertSence.cpp">
+      <Filter>Source\DesertSence</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DesertSence\DesertSence.h">
+      <Filter>Source\DesertSence</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DesertSence\DesertSenceCharacter.cpp">
+      <Filter>Source\DesertSence</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DesertSence\DesertSenceCharacter.h">
+      <Filter>Source\DesertSence</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DesertSence\DesertSenceGameMode.cpp">
+      <Filter>Source\DesertSence</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DesertSence\DesertSenceGameMode.h">
+      <Filter>Source\DesertSence</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
