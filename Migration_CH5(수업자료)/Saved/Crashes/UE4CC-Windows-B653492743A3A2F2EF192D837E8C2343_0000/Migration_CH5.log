@@ -1,0 +1,1734 @@
+﻿Log file open, 09/27/20 08:32:00
+LogInit: Display: Running engine for game: Migration_CH5
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 83 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.267631
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OctanePlugin
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen Threadripper 2950X 16-Core Processor , GPU: NVIDIA GeForce RTX 2080 Ti
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Engine.ini]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Engine.ini]
+[2020.09.26-23.32.01:359][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Engine.ini]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Engine.ini]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.09.26-23.32.01:359][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Engine.ini]
+[2020.09.26-23.32.01:359][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Engine.ini]
+[2020.09.26-23.32.01:380][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Scalability.ini]
+[2020.09.26-23.32.01:380][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.26-23.32.01:380][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.26-23.32.01:380][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Scalability.ini]
+[2020.09.26-23.32.01:380][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.26-23.32.01:380][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Scalability.ini]
+[2020.09.26-23.32.01:380][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.26-23.32.01:380][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.26-23.32.01:380][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.26-23.32.01:380][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.26-23.32.01:380][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.26-23.32.01:380][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.26-23.32.01:380][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.26-23.32.01:380][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.26-23.32.01:380][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.26-23.32.01:380][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.26-23.32.01:380][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.26-23.32.01:380][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.26-23.32.01:380][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.26-23.32.01:380][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.26-23.32.01:380][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.26-23.32.01:380][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.26-23.32.01:380][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.26-23.32.01:380][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.26-23.32.01:380][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Scalability.ini]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Scalability.ini]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Scalability.ini]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.26-23.32.01:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Scalability.ini]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Scalability.ini]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.09.26-23.32.01:382][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.26-23.32.01:382][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.26-23.32.01:382][  0]LogHAL: Display: Platform has ~ 128 GB [137325359104 / 137438953472 / 128], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.09.26-23.32.01:382][  0]LogInit: Going up to parent DeviceProfile []
+[2020.09.26-23.32.01:382][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Scalability.ini]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Scalability.ini]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Scalability.ini]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Scalability.ini]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.26-23.32.01:382][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Scalability.ini]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Scalability.ini]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.SSGI.Quality:4]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:2]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Scalability.ini]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Scalability.ini]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:64]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:1]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:32]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:1]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:1]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:1]]
+[2020.09.26-23.32.01:383][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.09.26-23.32.01:384][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.09.26-23.32.01:384][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.09.26-23.32.01:384][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.09.26-23.32.01:384][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Config/Windows/Engine.ini]
+[2020.09.26-23.32.01:384][  0]LogInit: Computer: DESKTOP-IGMQSJJ
+[2020.09.26-23.32.01:384][  0]LogInit: User: chryu
+[2020.09.26-23.32.01:384][  0]LogInit: CPU Page size=4096, Cores=16
+[2020.09.26-23.32.01:384][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.26-23.32.01:384][  0]LogMemory: Memory total: Physical=127.9GB (128GB approx)
+[2020.09.26-23.32.01:384][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.26-23.32.01:384][  0]LogMemory: Process Physical Memory: 118.43 MB used, 118.43 MB peak
+[2020.09.26-23.32.01:384][  0]LogMemory: Process Virtual Memory: 102.03 MB used, 102.03 MB peak
+[2020.09.26-23.32.01:384][  0]LogMemory: Physical Memory: 32123.05 MB used,  98840.61 MB free, 130963.67 MB total
+[2020.09.26-23.32.01:384][  0]LogMemory: Virtual Memory: 5256.53 MB used,  134212472.00 MB free, 134217728.00 MB total
+[2020.09.26-23.32.01:398][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.09.26-23.32.01:479][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.09.26-23.32.01:481][  0]LogInit: Using OS detected language (ko-KR).
+[2020.09.26-23.32.01:481][  0]LogInit: Using OS detected locale (ko-KR).
+[2020.09.26-23.32.01:497][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2020.09.26-23.32.01:614][  0]LogInit: Setting process to per monitor DPI aware
+[2020.09.26-23.32.01:730][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.09.26-23.32.01:730][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.09.26-23.32.02:185][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.09.26-23.32.02:185][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.09.26-23.32.02:185][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.09.26-23.32.02:185][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.26-23.32.02:297][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2020.09.26-23.32.02:297][  0]LogD3D11RHI:       11049/0/65481 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.09.26-23.32.02:390][  0]LogD3D11RHI:    1. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2020.09.26-23.32.02:390][  0]LogD3D11RHI:       11049/0/65481 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.09.26-23.32.02:491][  0]LogD3D11RHI:    2. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2020.09.26-23.32.02:491][  0]LogD3D11RHI:       11049/0/65481 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2020.09.26-23.32.02:495][  0]LogD3D11RHI:    3. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.26-23.32.02:495][  0]LogD3D11RHI:       0/0/65481 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.26-23.32.02:495][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.26-23.32.02:520][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.26-23.32.02:520][  0]LogD3D11RHI:     GPU DeviceId: 0x1e07 (for the marketing name, search the web for "GPU Device Id")
+[2020.09.26-23.32.02:520][  0]LogWindows: EnumDisplayDevices:
+[2020.09.26-23.32.02:520][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:1)
+[2020.09.26-23.32.02:522][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 Ti' (P:1 D:1)
+[2020.09.26-23.32.02:524][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2020.09.26-23.32.02:525][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2020.09.26-23.32.02:527][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:1)
+[2020.09.26-23.32.02:528][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:1)
+[2020.09.26-23.32.02:530][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2020.09.26-23.32.02:531][  0]LogWindows:    7. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2020.09.26-23.32.02:533][  0]LogWindows:    8. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2020.09.26-23.32.02:534][  0]LogWindows:    9. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2020.09.26-23.32.02:536][  0]LogWindows:    10. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2020.09.26-23.32.02:537][  0]LogWindows:    11. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2020.09.26-23.32.02:538][  0]LogWindows: DebugString: FoundDriverCount:12 
+[2020.09.26-23.32.02:538][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Ti
+[2020.09.26-23.32.02:538][  0]LogD3D11RHI:   Driver Version: 451.77 (internal:27.21.14.5177, unified:451.77)
+[2020.09.26-23.32.02:538][  0]LogD3D11RHI:      Driver Date: 7-13-2020
+[2020.09.26-23.32.02:539][  0]LogRHI: Texture pool is 7734 MB (70% of 11049 MB)
+[2020.09.26-23.32.02:613][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.09.26-23.32.02:617][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.09.26-23.32.02:617][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.26-23.32.02:617][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.09.26-23.32.02:672][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.09.26-23.32.03:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.09.26-23.32.03:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.09.26-23.32.03:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.09.26-23.32.03:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.09.26-23.32.03:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.09.26-23.32.03:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.09.26-23.32.03:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.09.26-23.32.03:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.09.26-23.32.03:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.09.26-23.32.03:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.09.26-23.32.03:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.09.26-23.32.03:264][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.09.26-23.32.03:264][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.09.26-23.32.03:282][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.09.26-23.32.03:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.09.26-23.32.03:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.09.26-23.32.03:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.09.26-23.32.03:345][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.09.26-23.32.03:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.09.26-23.32.03:379][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.09.26-23.32.03:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.09.26-23.32.03:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.09.26-23.32.03:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.09.26-23.32.03:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.09.26-23.32.03:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.09.26-23.32.03:480][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.09.26-23.32.03:495][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.09.26-23.32.03:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.09.26-23.32.03:511][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.26-23.32.03:531][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.09.26-23.32.03:696][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Intermediate/Shaders/WorkingDirectory/42460/).
+[2020.09.26-23.32.03:697][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/chryu/AppData/Local/Temp/UnrealShaderWorkingDir/70D1D4644262A490C2B718AC40DA7807/'.
+[2020.09.26-23.32.03:698][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.09.26-23.32.03:698][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.09.26-23.32.03:698][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.26-23.32.04:538][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.26-23.32.04:615][  0]LogDerivedDataCache: Loaded boot cache 0.08s 124MB C:/Users/chryu/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.09.26-23.32.04:615][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/chryu/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.09.26-23.32.04:615][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.26-23.32.04:615][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.26-23.32.04:615][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.26-23.32.04:615][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.26-23.32.04:627][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.26-23.32.04:627][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.26-23.32.04:627][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.09.26-23.32.04:629][  0]LogDerivedDataCache: Using Local data cache path C:/Users/chryu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.26-23.32.04:629][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.09.26-23.32.04:629][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.09.26-23.32.04:681][  0]LogSlate: Using FreeType 2.10.0
+[2020.09.26-23.32.04:682][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.26-23.32.04:715][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2020.09.26-23.32.04:982][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.26-23.32.05:142][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.26-23.32.05:142][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.09.26-23.32.05:142][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.09.26-23.32.05:142][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.09.26-23.32.05:143][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.09.26-23.32.05:183][  0]LogNetVersion: Migration_CH5 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3221326286)
+[2020.09.26-23.32.05:701][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000002A56C9D8540), frame # 0
+[2020.09.26-23.32.05:701][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002A56C907C40), frame # 0
+[2020.09.26-23.32.05:702][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002A56C965E00), frame # 0
+[2020.09.26-23.32.05:793][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.082417 seconds
+[2020.09.26-23.32.05:799][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.09.26-23.32.05:799][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.09.26-23.32.05:799][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.26-23.32.06:341][  0]LogPython: Using Python 2.7.14
+[2020.09.26-23.32.07:816][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.26-23.32.07:825][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.26-23.32.08:069][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.09.26-23.32.08:069][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.09.26-23.32.08:077][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.09.26-23.32.08:084][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.09.26-23.32.08:104][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.09.26-23.32.09:255][  0]LogConsoleManager: Warning: Console object named 'Slate.AllowNumericLabelCrush' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2020.09.26-23.32.09:255][  0]LogConsoleManager: Warning: Console object named 'Slate.NumericLabelWidthCrushStop' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2020.09.26-23.32.09:255][  0]LogConsoleManager: Warning: Console object named 'Slate.NumericLabelWidthCrushStart' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2020.09.26-23.32.09:272][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.26-23.32.09:353][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.26-23.32.09:353][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.26-23.32.09:507][  0]LogOcInput: OculusInput pre-init called
+[2020.09.26-23.32.09:538][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.09.26-23.32.09:538][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.09.26-23.32.09:999][  0]LogEngine: Initializing Engine...
+[2020.09.26-23.32.10:118][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.09.26-23.32.10:118][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.09.26-23.32.10:119][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.09.26-23.32.10:247][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.09.26-23.32.10:268][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.26-23.32.10:268][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002A57E574C00), frame # 0
+[2020.09.26-23.32.10:268][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002A57E57B4C0), frame # 0
+[2020.09.26-23.32.10:277][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.26-23.32.10:277][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.26-23.32.10:277][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.26-23.32.10:277][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.26-23.32.10:277][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.26-23.32.10:277][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.26-23.32.10:277][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.26-23.32.10:277][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.26-23.32.10:278][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.26-23.32.10:278][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.26-23.32.10:355][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.26-23.32.10:355][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.09.26-23.32.10:511][  0]LogAudioMixer: Display: Using Audio Device 스피커(3- High Definition Audio Device)
+[2020.09.26-23.32.10:513][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.26-23.32.10:518][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.26-23.32.10:518][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.26-23.32.10:519][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.26-23.32.10:520][  0]LogInit: FAudioDevice initialized.
+[2020.09.26-23.32.10:520][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.09.26-23.32.10:631][  0]LogDerivedDataCache: Saved boot cache 0.11s 124MB C:/Users/chryu/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.09.26-23.32.10:638][  0]LogInit: Texture streaming: Enabled
+[2020.09.26-23.32.10:679][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.26-23.32.10:679][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.09.26-23.32.10:684][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.09.26-23.32.10:778][  0]LogInit: Transaction tracking system initialized
+[2020.09.26-23.32.10:832][  0]BlueprintLog: New page: 에디터 로드
+[2020.09.26-23.32.10:999][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2020.09.26-23.32.11:319][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.26-23.32.11:320][  0]LogCook: Display: Mobile HDR setting 1
+[2020.09.26-23.32.11:670][  0]LogFileCache: Scanning file cache for directory 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/' took 0.00s
+[2020.09.26-23.32.11:935][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.09.26-23.32.11:935][  0]LogUnrealEdMisc: Loading editor; pre map load, took 13.893
+[2020.09.26-23.32.11:935][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.26-23.32.11:936][  0]LightingResults: New page: 라이팅 빌드
+[2020.09.26-23.32.11:937][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.26-23.32.11:937][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.26-23.32.11:937][  0]MapCheck: New page: 맵 체크
+[2020.09.26-23.32.11:937][  0]LightingResults: New page: 라이팅 빌드
+[2020.09.26-23.32.11:974][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002A57E574C00), frame # 0
+[2020.09.26-23.32.11:975][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002A57E57B4C0), frame # 0
+[2020.09.26-23.32.11:975][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.09.26-23.32.12:055][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.09.26-23.32.12:055][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002A50EE6DE00), frame # 0
+[2020.09.26-23.32.12:055][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002A569E6E480), frame # 0
+[2020.09.26-23.32.12:059][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.26-23.32.12:084][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.09.26-23.32.12:085][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.26-23.32.12:085][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.131ms.
+[2020.09.26-23.32.12:085][  0]LogFileHelpers: Loading map 'Template_Default' took 0.150
+[2020.09.26-23.32.12:087][  0]LogUnrealEdMisc: Total Editor Startup Time, took 14.045
+[2020.09.26-23.32.12:278][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.26-23.32.12:286][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.26-23.32.12:293][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.26-23.32.12:301][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.26-23.32.12:316][  0]LogCollectionManager: Loaded 0 collections in 0.002454 seconds
+[2020.09.26-23.32.12:335][  0]LogFileCache: Scanning file cache for directory 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/Collections/' took 0.00s
+[2020.09.26-23.32.12:335][  0]LogFileCache: Scanning file cache for directory 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Developers/chryu/Collections/' took 0.00s
+[2020.09.26-23.32.12:335][  0]LogFileCache: Scanning file cache for directory 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Collections/' took 0.00s
+[2020.09.26-23.32.12:335][  0]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 3511 classes and 855 folders.
+[2020.09.26-23.32.12:339][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.26-23.32.12:439][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.09.26-23.32.12:443][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.09.26-23.32.12:542][  0]LogSlate: Took 0.000459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.26-23.32.12:544][  0]LogSlate: Took 0.001557 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2020.09.26-23.32.12:547][  0]LogSlate: Took 0.001733 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2020.09.26-23.32.12:547][  0]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.26-23.32.12:552][  0]LogSlate: Took 0.000351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.26-23.32.12:668][  0]LogRenderer: Reallocating scene render targets to support 1168x612 Format 10 NumSamples 1 (Frame:1).
+[2020.09.26-23.32.12:784][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.09.26-23.32.12:784][  0]LogLoad: (Engine Initialization) Total time: 14.74 seconds
+[2020.09.26-23.32.12:784][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.26-23.32.12:830][  0]LogAssetRegistry: Asset discovery search completed in 8.1152 seconds
+[2020.09.26-23.32.12:833][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.09.26-23.32.12:834][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2020.09.26-23.32.12:844][  0]LogSlate: Took 0.000455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.26-23.32.12:893][  0]LogSlate: Took 0.000626 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.26-23.40.45:020][634]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\2020 Works\0611_Class 101\06. 제작 자료\애셋\SnowTree\침엽수\SM_SnowTree_1.fbx)
+[2020.09.26-23.40.45:035][634]LogFbx: Loading FBX Scene from D:\2020 Works\0611_Class 101\06. 제작 자료\애셋\SnowTree\침엽수\SM_SnowTree_1.fbx
+[2020.09.26-23.40.45:041][634]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.26-23.40.46:391][634]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2020.09.26-23.40.46:419][634]LogFbx: Display: Triangulating static mesh Leaf_3
+[2020.09.26-23.40.46:477][634]LogStaticMesh: SM_SnowTree_1 스태틱 메시 빌드중...
+[2020.09.26-23.40.46:500][634]LogStaticMesh: Built static mesh [0.02s] /Game/NewFolder/SM_SnowTree_1.SM_SnowTree_1
+[2020.09.26-23.40.46:512][634]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2020.09.26-23.40.46:606][634]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.09.26-23.40.46:607][634]LogSlate: Took 0.001508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2020.09.26-23.40.47:606][753]LogSlate: Window '메시지 로그' being destroyed
+[2020.09.26-23.40.47:614][753]LogSlate: Window '메시지 로그' being destroyed
+[2020.09.26-23.40.53:894][204]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\2020 Works\0611_Class 101\06. 제작 자료\애셋\SnowTree\활엽수\SM_SnowTree_2.fbx)
+[2020.09.26-23.40.53:906][204]LogFbx: Loading FBX Scene from D:\2020 Works\0611_Class 101\06. 제작 자료\애셋\SnowTree\활엽수\SM_SnowTree_2.fbx
+[2020.09.26-23.40.53:913][204]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.26-23.40.55:196][204]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2020.09.26-23.40.55:225][204]LogFbx: Display: Triangulating static mesh 1
+[2020.09.26-23.40.55:294][204]LogStaticMesh: SM_SnowTree_2 스태틱 메시 빌드중...
+[2020.09.26-23.40.55:323][204]LogStaticMesh: Built static mesh [0.03s] /Game/NewFolder/SM_SnowTree_2.SM_SnowTree_2
+[2020.09.26-23.40.55:335][204]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2020.09.26-23.40.56:527][334]LogSlate: Window '메시지 로그' being destroyed
+[2020.09.26-23.40.56:534][334]LogSlate: Window '메시지 로그' being destroyed
+[2020.09.26-23.40.58:288][529]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/NewFolder/SM_SnowTree_2.SM_SnowTree_2
+[2020.09.26-23.40.58:701][529]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.09.26-23.40.58:702][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.26-23.40.59:001][529]LogRenderer: Reallocating scene render targets to support 1912x1284 Format 10 NumSamples 1 (Frame:1).
+[2020.09.26-23.40.59:001][529]LogSlate: Took 0.000483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.09.26-23.41.00:429][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.09.26-23.41.01:341][645]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.26-23.41.01:622][645]LogSlate: Window 'SM_SnowTree_2' being destroyed
+[2020.09.26-23.41.01:738][645]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.09.26-23.41.01:738][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.26-23.41.01:745][645]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/NewFolder/SM_SnowTree_2.SM_SnowTree_2
+[2020.09.26-23.41.02:160][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.09.26-23.41.02:658][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.09.26-23.41.03:486][696]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.26-23.41.03:585][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.09.26-23.41.14:002][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.09.26-23.41.16:163][165]LogSlate: Window '애셋 리포트' being destroyed
+[2020.09.26-23.41.23:644][165]LogAssetTools: Warning: 디스크에 존재하지 않는 /Game/Asset_Migrate/Masters/01_Masters/M_SSSMaster 입니다.
+[2020.09.26-23.41.23:668][165]LogAssetTools: Warning: 디스크에 존재하지 않는 /Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Diffuse 입니다.
+[2020.09.26-23.41.23:668][165]LogAssetTools: Warning: 디스크에 존재하지 않는 /Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Gray 입니다.
+[2020.09.26-23.41.23:668][165]LogAssetTools: Warning: 디스크에 존재하지 않는 /Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Normal 입니다.
+[2020.09.26-23.41.23:668][165]LogAssetTools: Warning: 디스크에 존재하지 않는 /Game/Asset_Migrate/Masters/01_Masters/SSP_Candles 입니다.
+[2020.09.26-23.41.23:814][165]AssetTools: New page: 복사 오류
+[2020.09.26-23.41.23:814][165]AssetTools: Error: 디스크에 존재하지 않는 /Game/Asset_Migrate/Masters/01_Masters/M_SSSMaster 입니다.
+디스크에 존재하지 않는 /Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Diffuse 입니다.
+디스크에 존재하지 않는 /Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Gray 입니다.
+디스크에 존재하지 않는 /Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Normal 입니다.
+디스크에 존재하지 않는 /Game/Asset_Migrate/Masters/01_Masters/SSP_Candles 입니다.
+
+[2020.09.26-23.41.23:814][165]AssetTools: New page: 복사 성공
+[2020.09.26-23.41.23:815][165]AssetTools: 
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/BP_Candle
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Masters/01_Masters/FX/Candle/MI_CandleFlameFX
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Masters/01_Masters/FX/Candle/M_CandleFlameFX
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Masters/02_Functions/02_Additional/MF_RandomRange
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Masters/01_Masters/FX/Candle/T_CandleFlame
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Masters/01_Masters/FX/Candle/T_WaveNoise
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Candles/SM_Candles_01
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Candles/T_Candles_01
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Candles/T_Candles_01_N
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Candles/T_Candles_01_R
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Candles/SM_Candles_02
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Candles/T_Candles_02
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Candles/T_Candles_02_N
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Candles/T_Candles_02_R
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Masters/01_Masters/FX/Candle/SM_Plane_01a
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/BP_Candle_Single
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/BP_SnowTree
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Tree/M_Bark
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Tree/tdnifdqt_2K_Albedo
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Tree/tdnifdqt_2K_Normal
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Tree/M_Cleansnow
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Tree/SM_SnowTree_1_Snow
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Tree/SM_SnowTree_1_Tree
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Masters/01_Masters/M_SSSMaster
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Masters/02_Functions/01_BaseFunctions/MF_NormalStrength
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Masters/02_Functions/01_BaseFunctions/MF_Roughness
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Masters/02_Functions/01_BaseFunctions/MF_UVManip
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Masters/01_Masters/BaseTextures/Default_Diffuse
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Masters/01_Masters/BaseTextures/Default_Gray
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Masters/01_Masters/BaseTextures/Default_Normal
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Candle/CustomAssets/Masters/01_Masters/SSP_Candles
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Maps/Overview
+[2020.09.26-23.41.23:815][165]AssetTools: /Game/Asset_Migrate/Maps/Overview_BuiltData
+[2020.09.26-23.42.06:764][264]LogSlate: Window '메시지 로그' being destroyed
+[2020.09.26-23.42.06:772][264]LogSlate: Window '메시지 로그' being destroyed
+[2020.09.26-23.42.31:933][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/M_SSSMaster' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:933][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/M_SSSMaster' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:937][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Diffuse' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:937][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Diffuse' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:937][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Gray' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:937][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Gray' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:937][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Normal' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:937][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Normal' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:937][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/M_SSSMaster' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:937][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/M_SSSMaster' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:938][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/SSP_Candles' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:938][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/SSP_Candles' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:938][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/SSP_Candles' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:938][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/SSP_Candles' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:939][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Diffuse' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:939][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Diffuse' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:939][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Gray' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:939][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Gray' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:939][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Normal' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:939][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Normal' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:940][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/M_SSSMaster' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:941][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/M_SSSMaster' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:943][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Diffuse' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:943][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Diffuse' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:943][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Gray' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:943][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Gray' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:943][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Normal' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:943][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Normal' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:943][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/M_SSSMaster' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:943][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/M_SSSMaster' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:943][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/SSP_Candles' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:944][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/SSP_Candles' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:944][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/SSP_Candles' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:944][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/SSP_Candles' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:944][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Diffuse' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:945][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Diffuse' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:945][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Gray' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:945][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Gray' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:945][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Normal' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:945][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Normal' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:956][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/M_SSSMaster' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:956][612]LoadErrors: 로드에 실패했습니다. /Game/Asset_Migrate/Masters/01_Masters/M_SSSMaster.M_SSSMaster 참조한 것: MI_Candles_01
+[2020.09.26-23.42.31:956][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/M_SSSMaster' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:956][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Diffuse' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:956][612]LoadErrors: 로드에 실패했습니다. /Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Diffuse.Default_Diffuse 참조한 것: MI_Candles_01
+[2020.09.26-23.42.31:956][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Diffuse' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:956][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Normal' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:956][612]LoadErrors: 로드에 실패했습니다. /Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Normal.Default_Normal 참조한 것: MI_Candles_01
+[2020.09.26-23.42.31:957][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Normal' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:957][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Gray' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:957][612]LoadErrors: 로드에 실패했습니다. /Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Gray.Default_Gray 참조한 것: MI_Candles_01
+[2020.09.26-23.42.31:957][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Gray' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:957][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/SSP_Candles' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:957][612]LoadErrors: 로드에 실패했습니다. /Game/Asset_Migrate/Masters/01_Masters/SSP_Candles.SSP_Candles 참조한 것: MI_Candles_01
+[2020.09.26-23.42.31:957][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/SSP_Candles' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:960][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/M_SSSMaster' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:960][612]LoadErrors: 로드에 실패했습니다. /Game/Asset_Migrate/Masters/01_Masters/M_SSSMaster.M_SSSMaster 참조한 것: MI_Candles_02
+[2020.09.26-23.42.31:960][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/M_SSSMaster' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:960][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Diffuse' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:960][612]LoadErrors: 로드에 실패했습니다. /Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Diffuse.Default_Diffuse 참조한 것: MI_Candles_02
+[2020.09.26-23.42.31:961][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Diffuse' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:961][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Normal' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:961][612]LoadErrors: 로드에 실패했습니다. /Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Normal.Default_Normal 참조한 것: MI_Candles_02
+[2020.09.26-23.42.31:961][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Normal' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:961][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Gray' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:961][612]LoadErrors: 로드에 실패했습니다. /Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Gray.Default_Gray 참조한 것: MI_Candles_02
+[2020.09.26-23.42.31:961][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/BaseTextures/Default_Gray' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:961][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/SSP_Candles' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.31:961][612]LoadErrors: 로드에 실패했습니다. /Game/Asset_Migrate/Masters/01_Masters/SSP_Candles.SSP_Candles 참조한 것: MI_Candles_02
+[2020.09.26-23.42.31:961][612]LogLinker: Warning: 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.uasset' 로드 도중 '/Game/Asset_Migrate/Masters/01_Masters/SSP_Candles' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.09.26-23.42.34:469][864]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Asset_Migrate/BP_Candle.BP_Candle
+[2020.09.26-23.42.34:746][864]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 125 classes and 0 folders.
+[2020.09.26-23.42.35:683][864]LogSlate: Took 0.000422 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.09.26-23.42.38:371][ 60]LogSlate: Window 'BP_Candle' being destroyed
+[2020.09.26-23.42.38:381][ 60]LogSlate: Window 'BP_Candle' being destroyed
+[2020.09.26-23.42.38:390][ 60]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.09.26-23.42.38:390][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.26-23.42.43:691][560]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.MI_Candles_02
+[2020.09.26-23.42.47:375][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.09.26-23.44.49:045][258]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Asset_Migrate/Candle/CustomAssets/Candles/M_Candle.M_Candle
+[2020.09.26-23.44.49:046][258]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.44.49:195][258]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.44.49:202][258]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.44.49:213][258]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.44.49:213][258]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.44.49:213][258]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.44.49:213][258]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.44.49:213][258]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.44.49:213][258]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.44.49:213][258]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.44.49:213][258]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.44.49:213][258]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.44.50:338][303]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.09.26-23.44.50:338][303]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.09.26-23.44.50:338][303]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.26-23.44.50:338][303]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.26-23.44.54:077][555]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.44.54:084][555]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.09.26-23.44.54:098][555]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.44.54:098][555]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.44.54:098][555]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.44.54:098][555]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.44.54:098][555]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.44.54:098][555]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.44.54:098][555]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.44.54:098][555]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.44.54:098][555]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.44.54:103][555]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.09.26-23.44.54:116][555]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.44.54:123][555]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.09.26-23.44.54:135][555]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.09.26-23.44.54:139][555]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.09.26-23.44.54:151][555]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.44.54:158][555]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.09.26-23.44.54:175][555]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.09.26-23.44.54:179][555]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 9
+[2020.09.26-23.44.54:179][555]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 8
+[2020.09.26-23.44.54:179][555]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 7
+[2020.09.26-23.44.54:179][555]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 6
+[2020.09.26-23.44.54:179][555]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 5
+[2020.09.26-23.44.54:179][555]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 4
+[2020.09.26-23.44.54:179][555]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 3
+[2020.09.26-23.44.54:179][555]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 2
+[2020.09.26-23.44.54:179][555]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 1
+[2020.09.26-23.44.54:179][555]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.09.26-23.44.54:183][555]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.09.26-23.44.54:382][559]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 12
+[2020.09.26-23.44.54:382][559]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 11
+[2020.09.26-23.44.54:382][559]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 10
+[2020.09.26-23.44.54:382][559]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 9
+[2020.09.26-23.44.54:382][559]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 8
+[2020.09.26-23.44.54:382][559]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 7
+[2020.09.26-23.44.54:382][559]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 6
+[2020.09.26-23.44.54:382][559]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 5
+[2020.09.26-23.44.54:382][559]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 4
+[2020.09.26-23.44.54:382][559]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 3
+[2020.09.26-23.44.54:847][571]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 2
+[2020.09.26-23.44.54:847][571]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 1
+[2020.09.26-23.44.56:422][626]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.09.26-23.44.56:422][626]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.09.26-23.44.56:422][626]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.09.26-23.44.56:422][626]MaterialEditorStats: Texture samplers: 2/16
+[2020.09.26-23.44.57:942][729]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.44.57:954][729]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.44.57:954][729]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.44.57:954][729]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.44.57:954][729]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.44.57:954][729]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.44.57:954][729]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.44.57:954][729]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.44.57:954][729]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.44.57:954][729]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.44.57:954][729]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.09.26-23.44.58:815][779]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 4
+[2020.09.26-23.44.58:816][779]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 3
+[2020.09.26-23.44.58:816][779]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 2
+[2020.09.26-23.44.58:816][779]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 1
+[2020.09.26-23.44.59:407][809]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.09.26-23.44.59:407][809]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.09.26-23.44.59:407][809]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.09.26-23.44.59:407][809]MaterialEditorStats: Texture samplers: 3/16
+[2020.09.26-23.44.59:407][809]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.09.26-23.44.59:407][809]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.26-23.45.02:543][994]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.45.02:553][994]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.45.02:553][994]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.45.02:553][994]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.45.02:553][994]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.45.02:553][994]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.45.02:553][994]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.45.02:553][994]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.45.02:553][994]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.45.02:553][994]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.45.02:555][994]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.09.26-23.45.02:659][999]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 4
+[2020.09.26-23.45.02:659][999]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 3
+[2020.09.26-23.45.02:659][999]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 2
+[2020.09.26-23.45.02:659][999]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 1
+[2020.09.26-23.45.03:334][ 30]MaterialEditorStats: Base pass shader: 122 instructions
+[2020.09.26-23.45.03:334][ 30]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2020.09.26-23.45.03:334][ 30]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.09.26-23.45.03:334][ 30]MaterialEditorStats: Texture samplers: 4/16
+[2020.09.26-23.45.03:334][ 30]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.09.26-23.45.03:334][ 30]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.26-23.45.04:347][ 94]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.45.04:360][ 94]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.45.04:360][ 94]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.45.04:360][ 94]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.45.04:360][ 94]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.45.04:360][ 94]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.45.04:360][ 94]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.45.04:360][ 94]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.45.04:360][ 94]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.45.04:360][ 94]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.45.04:362][ 94]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.09.26-23.45.04:454][100]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 4
+[2020.09.26-23.45.04:454][100]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 3
+[2020.09.26-23.45.04:454][100]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 2
+[2020.09.26-23.45.04:454][100]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 1
+[2020.09.26-23.45.05:676][169]MaterialEditorStats: Base pass shader: 128 instructions
+[2020.09.26-23.45.05:676][169]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2020.09.26-23.45.05:676][169]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.09.26-23.45.05:676][169]MaterialEditorStats: Texture samplers: 5/16
+[2020.09.26-23.45.05:676][169]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.26-23.45.05:676][169]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.26-23.45.10:454][501]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.45.10:465][501]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.45.10:465][501]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.45.10:465][501]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.45.10:465][501]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.45.10:465][501]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.45.10:465][501]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.45.10:465][501]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.45.10:465][501]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.45.10:465][501]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.45.11:517][571]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.45.11:531][571]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.45.11:531][571]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.45.11:531][571]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.45.11:531][571]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.45.11:531][571]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.45.11:531][571]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.45.11:531][571]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.45.11:531][571]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.45.11:531][571]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.45.11:532][571]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.45.11:540][571]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.45.11:623][574]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 9
+[2020.09.26-23.45.11:624][574]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 8
+[2020.09.26-23.45.11:624][574]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 7
+[2020.09.26-23.45.11:624][574]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 6
+[2020.09.26-23.45.11:624][574]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 5
+[2020.09.26-23.45.11:624][574]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 4
+[2020.09.26-23.45.11:624][574]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 3
+[2020.09.26-23.45.11:624][574]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 2
+[2020.09.26-23.45.11:624][574]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 1
+[2020.09.26-23.45.12:514][608]MaterialEditorStats: Base pass shader: 132 instructions
+[2020.09.26-23.45.12:514][608]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2020.09.26-23.45.12:515][608]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.09.26-23.45.12:515][608]MaterialEditorStats: Texture samplers: 5/16
+[2020.09.26-23.45.12:515][608]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.26-23.45.12:515][608]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.26-23.45.13:103][653]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.45.13:137][654]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.45.13:137][654]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.45.13:137][654]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.45.13:137][654]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.45.13:137][654]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.45.13:137][654]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.45.13:137][654]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.45.13:137][654]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.45.13:137][654]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.45.14:974][776]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.45.14:988][776]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.09.26-23.45.14:992][776]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.45.14:992][776]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.45.14:993][776]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.45.14:993][776]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.45.14:993][776]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.45.14:993][776]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.45.14:993][776]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.45.14:993][776]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.45.14:993][776]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.45.15:092][780]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 4
+[2020.09.26-23.45.15:092][780]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 3
+[2020.09.26-23.45.15:092][780]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 2
+[2020.09.26-23.45.15:092][780]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 1
+[2020.09.26-23.45.16:236][845]MaterialEditorStats: Base pass shader: 132 instructions
+[2020.09.26-23.45.16:236][845]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2020.09.26-23.45.16:236][845]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.09.26-23.45.16:236][845]MaterialEditorStats: Texture samplers: 5/16
+[2020.09.26-23.45.16:236][845]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.26-23.45.16:236][845]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.26-23.45.17:140][913]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.45.17:147][913]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.09.26-23.45.17:179][914]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 13
+[2020.09.26-23.45.17:179][914]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 12
+[2020.09.26-23.45.17:179][914]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 11
+[2020.09.26-23.45.17:179][914]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 10
+[2020.09.26-23.45.17:179][914]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 9
+[2020.09.26-23.45.17:179][914]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 8
+[2020.09.26-23.45.17:179][914]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 7
+[2020.09.26-23.45.17:179][914]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 6
+[2020.09.26-23.45.17:179][914]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 5
+[2020.09.26-23.45.17:179][914]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 4
+[2020.09.26-23.45.17:179][914]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 3
+[2020.09.26-23.45.17:179][914]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 2
+[2020.09.26-23.45.17:179][914]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 1
+[2020.09.26-23.45.19:901][ 96]MaterialEditorStats: Base pass shader: 132 instructions
+[2020.09.26-23.45.19:901][ 96]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2020.09.26-23.45.19:901][ 96]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.09.26-23.45.19:901][ 96]MaterialEditorStats: Texture samplers: 5/16
+[2020.09.26-23.45.19:901][ 96]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.26-23.45.19:901][ 96]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.26-23.45.20:304][127]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.45.20:351][128]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.45.20:351][128]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.45.20:351][128]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.45.20:351][128]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.45.20:351][128]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.45.20:351][128]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.45.20:351][128]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.45.20:351][128]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.45.20:351][128]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.45.21:020][166]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.45.21:055][167]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.45.21:055][167]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.45.21:055][167]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.45.21:055][167]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.45.21:055][167]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.45.21:055][167]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.45.21:055][167]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.45.21:055][167]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.45.21:055][167]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.45.22:518][262]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.45.22:541][263]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.45.22:541][263]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.45.22:541][263]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.45.22:541][263]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.45.22:541][263]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.45.22:541][263]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.45.22:541][263]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.45.22:541][263]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.45.22:541][263]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.45.24:574][396]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.45.24:597][397]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.45.24:597][397]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.45.24:597][397]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.45.24:597][397]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.45.24:597][397]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.45.24:597][397]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.45.24:597][397]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.45.24:597][397]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.45.24:597][397]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.45.25:258][430]MaterialEditorStats: Base pass shader: 131 instructions
+[2020.09.26-23.45.25:258][430]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2020.09.26-23.45.25:258][430]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.09.26-23.45.25:258][430]MaterialEditorStats: Texture samplers: 5/16
+[2020.09.26-23.45.25:259][430]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.26-23.45.25:259][430]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.26-23.45.27:118][560]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.45.27:126][560]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.45.27:126][560]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.45.27:126][560]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.45.27:126][560]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.45.27:126][560]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.45.27:126][560]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.45.27:126][560]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.45.27:126][560]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.45.27:126][560]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.45.27:127][560]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.45.27:398][577]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 9
+[2020.09.26-23.45.27:398][577]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 8
+[2020.09.26-23.45.27:398][577]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 7
+[2020.09.26-23.45.27:398][577]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 6
+[2020.09.26-23.45.27:398][577]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 5
+[2020.09.26-23.45.27:398][577]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 4
+[2020.09.26-23.45.27:399][577]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 3
+[2020.09.26-23.45.27:399][577]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 2
+[2020.09.26-23.45.27:399][577]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 1
+[2020.09.26-23.45.28:251][613]MaterialEditorStats: Base pass shader: 133 instructions
+[2020.09.26-23.45.28:251][613]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.09.26-23.45.28:251][613]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.09.26-23.45.28:251][613]MaterialEditorStats: Texture samplers: 5/16
+[2020.09.26-23.45.28:251][613]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.26-23.45.28:251][613]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.26-23.45.28:580][639]LogMaterialEditor: Saving and Compiling material M_Candle
+[2020.09.26-23.45.29:172][639]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.45.29:208][639]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.45.29:208][639]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.45.29:208][639]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.45.29:208][639]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.45.29:208][639]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.45.29:208][639]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.45.29:208][639]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.45.29:208][639]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.45.29:208][639]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.45.29:239][639]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.45.29:298][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.09.26-23.45.29:306][639]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 15
+[2020.09.26-23.45.29:306][639]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 14
+[2020.09.26-23.45.29:306][639]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 13
+[2020.09.26-23.45.29:306][639]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 12
+[2020.09.26-23.45.29:306][639]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 11
+[2020.09.26-23.45.29:306][639]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 10
+[2020.09.26-23.45.29:306][639]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 9
+[2020.09.26-23.45.29:306][639]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 8
+[2020.09.26-23.45.29:306][639]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 7
+[2020.09.26-23.45.29:306][639]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 6
+[2020.09.26-23.45.29:306][639]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 5
+[2020.09.26-23.45.29:306][639]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 4
+[2020.09.26-23.45.29:306][639]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 3
+[2020.09.26-23.45.29:306][639]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 2
+[2020.09.26-23.45.29:306][639]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 1
+[2020.09.26-23.45.29:310][639]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.26-23.45.30:975][639]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 2
+[2020.09.26-23.45.30:975][639]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 1
+[2020.09.26-23.45.31:470][639]TextureStreamingBuild: Display: Compiling optional shaders took 2.164 seconds.
+[2020.09.26-23.45.31:509][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.09.26-23.45.31:665][639]LogSavePackage: Moving 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/M_CandleEEE4C1DD430B72C6A84E9AAA614C9795.tmp' to 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/M_Candle.uasset'
+[2020.09.26-23.45.31:684][639]AssetCheck: New page: 애셋 저장: M_Candle
+[2020.09.26-23.45.31:684][639]LogContentValidation: Display: Material /Game/Asset_Migrate/Candle/CustomAssets/Candles/M_Candle.M_Candle 유효성 검사
+[2020.09.26-23.45.31:686][639]MaterialEditorStats: Base pass shader: 133 instructions
+[2020.09.26-23.45.31:687][639]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.09.26-23.45.31:687][639]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.09.26-23.45.31:687][639]MaterialEditorStats: Texture samplers: 6/16
+[2020.09.26-23.45.31:687][639]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.26-23.45.31:687][639]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.26-23.46.09:234][225]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.46.09:245][225]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.46.09:245][225]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.46.09:245][225]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.46.09:245][225]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.46.09:245][225]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.46.09:245][225]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.46.09:245][225]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.46.09:245][225]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.46.09:245][225]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.46.09:247][225]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.09.26-23.46.09:375][229]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 4
+[2020.09.26-23.46.09:375][229]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 3
+[2020.09.26-23.46.09:375][229]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 2
+[2020.09.26-23.46.09:375][229]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 1
+[2020.09.26-23.46.10:575][293]MaterialEditorStats: Base pass shader: 133 instructions
+[2020.09.26-23.46.10:575][293]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.09.26-23.46.10:575][293]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.09.26-23.46.10:575][293]MaterialEditorStats: Texture samplers: 5/16
+[2020.09.26-23.46.10:575][293]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.26-23.46.10:575][293]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.26-23.46.12:326][404]LogMaterialEditor: Saving and Compiling material M_Candle
+[2020.09.26-23.46.12:934][404]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.46.12:967][404]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.46.12:967][404]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.46.12:967][404]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.46.12:967][404]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.46.12:967][404]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.46.12:967][404]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.46.12:967][404]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.46.12:967][404]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.46.12:967][404]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.46.13:056][404]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.46.13:107][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.09.26-23.46.13:114][404]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.26-23.46.13:644][404]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 17
+[2020.09.26-23.46.13:644][404]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 16
+[2020.09.26-23.46.13:644][404]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 15
+[2020.09.26-23.46.13:644][404]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 14
+[2020.09.26-23.46.13:644][404]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 13
+[2020.09.26-23.46.13:644][404]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 12
+[2020.09.26-23.46.13:644][404]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 11
+[2020.09.26-23.46.13:644][404]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 10
+[2020.09.26-23.46.13:645][404]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 9
+[2020.09.26-23.46.13:645][404]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 8
+[2020.09.26-23.46.13:645][404]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 7
+[2020.09.26-23.46.13:645][404]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 6
+[2020.09.26-23.46.13:645][404]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 5
+[2020.09.26-23.46.13:645][404]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 4
+[2020.09.26-23.46.13:645][404]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 3
+[2020.09.26-23.46.13:645][404]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 2
+[2020.09.26-23.46.13:645][404]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 1
+[2020.09.26-23.46.13:650][404]TextureStreamingBuild: Display: Compiling optional shaders took 0.539 seconds.
+[2020.09.26-23.46.13:688][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.09.26-23.46.15:339][404]LogSavePackage: Moving 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/M_Candle9BB9CBE04F299266F61ABDB440802F56.tmp' to 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/M_Candle.uasset'
+[2020.09.26-23.46.15:368][404]AssetCheck: New page: 애셋 저장: M_Candle
+[2020.09.26-23.46.15:368][404]LogContentValidation: Display: Material /Game/Asset_Migrate/Candle/CustomAssets/Candles/M_Candle.M_Candle 유효성 검사
+[2020.09.26-23.46.15:374][404]MaterialEditorStats: Base pass shader: 133 instructions
+[2020.09.26-23.46.15:374][404]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.09.26-23.46.15:374][404]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.09.26-23.46.15:374][404]MaterialEditorStats: Texture samplers: 6/16
+[2020.09.26-23.46.15:374][404]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.26-23.46.15:374][404]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.26-23.46.52:901][863]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.46.52:914][863]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.46.52:914][863]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.46.52:914][863]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.46.52:914][863]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.46.52:914][863]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.46.52:914][863]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.46.52:914][863]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.46.52:914][863]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.46.52:914][863]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.46.52:916][863]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.46.53:050][868]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 9
+[2020.09.26-23.46.53:051][868]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 8
+[2020.09.26-23.46.53:051][868]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 7
+[2020.09.26-23.46.53:051][868]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 6
+[2020.09.26-23.46.53:051][868]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 5
+[2020.09.26-23.46.53:051][868]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 4
+[2020.09.26-23.46.53:051][868]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 3
+[2020.09.26-23.46.53:051][868]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 2
+[2020.09.26-23.46.53:051][868]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 1
+[2020.09.26-23.46.54:496][946]MaterialEditorStats: Base pass shader: 133 instructions
+[2020.09.26-23.46.54:496][946]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.09.26-23.46.54:496][946]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.09.26-23.46.54:496][946]MaterialEditorStats: Texture samplers: 5/16
+[2020.09.26-23.46.54:496][946]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.26-23.46.54:496][946]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.26-23.47.07:019][904]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.47.07:054][905]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.47.07:054][905]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.47.07:054][905]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.47.07:054][905]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.47.07:054][905]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.47.07:054][905]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.47.07:054][905]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.47.07:054][905]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.47.07:054][905]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.47.08:225][977]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.47.08:248][978]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.47.08:248][978]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.47.08:248][978]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.47.08:248][978]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.47.08:248][978]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.47.08:248][978]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.47.08:248][978]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.47.08:248][978]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.47.08:248][978]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.47.08:789][  7]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.47.08:798][  7]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 9
+[2020.09.26-23.47.08:798][  7]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 8
+[2020.09.26-23.47.08:798][  7]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 7
+[2020.09.26-23.47.08:798][  7]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 6
+[2020.09.26-23.47.08:798][  7]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 5
+[2020.09.26-23.47.08:798][  7]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 4
+[2020.09.26-23.47.08:798][  7]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 3
+[2020.09.26-23.47.08:798][  7]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 2
+[2020.09.26-23.47.08:798][  7]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 1
+[2020.09.26-23.47.08:798][  7]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.09.26-23.47.08:983][ 19]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 4
+[2020.09.26-23.47.08:983][ 19]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 3
+[2020.09.26-23.47.08:983][ 19]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 2
+[2020.09.26-23.47.08:983][ 19]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 1
+[2020.09.26-23.47.10:169][ 93]MaterialEditorStats: Base pass shader: 133 instructions
+[2020.09.26-23.47.10:169][ 93]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.09.26-23.47.10:169][ 93]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.09.26-23.47.10:169][ 93]MaterialEditorStats: Texture samplers: 5/16
+[2020.09.26-23.47.10:169][ 93]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.26-23.47.10:169][ 93]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.26-23.47.12:183][230]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.47.12:190][230]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.09.26-23.47.12:197][230]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.47.12:197][230]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.47.12:197][230]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.47.12:197][230]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.47.12:197][230]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.47.12:197][230]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.47.12:197][230]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.47.12:197][230]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.47.12:197][230]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.47.12:199][230]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.09.26-23.47.12:214][230]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.47.12:309][232]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 13
+[2020.09.26-23.47.12:309][232]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 12
+[2020.09.26-23.47.12:309][232]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 11
+[2020.09.26-23.47.12:309][232]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 10
+[2020.09.26-23.47.12:309][232]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 9
+[2020.09.26-23.47.12:309][232]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 8
+[2020.09.26-23.47.12:309][232]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 7
+[2020.09.26-23.47.12:309][232]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 6
+[2020.09.26-23.47.12:309][232]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 5
+[2020.09.26-23.47.12:309][232]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 4
+[2020.09.26-23.47.12:309][232]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 3
+[2020.09.26-23.47.12:309][232]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 2
+[2020.09.26-23.47.12:310][232]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 1
+[2020.09.26-23.47.13:413][285]MaterialEditorStats: Base pass shader: 133 instructions
+[2020.09.26-23.47.13:413][285]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.09.26-23.47.13:413][285]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.09.26-23.47.13:413][285]MaterialEditorStats: Texture samplers: 5/16
+[2020.09.26-23.47.13:413][285]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.26-23.47.13:413][285]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.26-23.47.18:802][685]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.47.18:816][685]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.47.18:816][685]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.47.18:816][685]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.47.18:816][685]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.47.18:816][685]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.47.18:816][685]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.47.18:816][685]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.47.18:816][685]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.47.18:816][685]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.47.18:816][685]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.09.26-23.47.18:913][689]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 4
+[2020.09.26-23.47.18:913][689]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 3
+[2020.09.26-23.47.18:913][689]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 2
+[2020.09.26-23.47.18:913][689]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 1
+[2020.09.26-23.47.19:941][739]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.47.19:965][740]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.47.19:965][740]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.47.19:965][740]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.47.19:965][740]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.47.19:965][740]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.47.19:965][740]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.47.19:965][740]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.47.19:965][740]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.47.19:965][740]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.47.22:142][895]MaterialEditorStats: Base pass shader: 134 instructions
+[2020.09.26-23.47.22:142][895]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 210 instructions
+[2020.09.26-23.47.22:142][895]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.09.26-23.47.22:142][895]MaterialEditorStats: Texture samplers: 5/16
+[2020.09.26-23.47.22:142][895]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.26-23.47.22:142][895]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.26-23.47.24:915][ 77]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.09.26-23.47.24:919][ 77]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.09.26-23.47.24:923][ 77]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 4
+[2020.09.26-23.47.24:923][ 77]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 3
+[2020.09.26-23.47.24:923][ 77]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 2
+[2020.09.26-23.47.24:923][ 77]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 1
+[2020.09.26-23.47.24:923][ 77]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.09.26-23.47.24:927][ 77]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.09.26-23.47.24:934][ 77]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.47.24:974][ 79]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 21
+[2020.09.26-23.47.24:974][ 79]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 20
+[2020.09.26-23.47.24:974][ 79]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 19
+[2020.09.26-23.47.24:974][ 79]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 18
+[2020.09.26-23.47.24:974][ 79]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 17
+[2020.09.26-23.47.24:974][ 79]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 16
+[2020.09.26-23.47.24:974][ 79]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 15
+[2020.09.26-23.47.24:974][ 79]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 14
+[2020.09.26-23.47.24:974][ 79]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 13
+[2020.09.26-23.47.24:974][ 79]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 12
+[2020.09.26-23.47.24:974][ 79]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 11
+[2020.09.26-23.47.24:974][ 79]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 10
+[2020.09.26-23.47.24:974][ 79]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 9
+[2020.09.26-23.47.24:974][ 79]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 8
+[2020.09.26-23.47.24:974][ 79]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 7
+[2020.09.26-23.47.24:974][ 79]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 6
+[2020.09.26-23.47.24:974][ 79]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 5
+[2020.09.26-23.47.24:974][ 79]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 4
+[2020.09.26-23.47.24:974][ 79]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 3
+[2020.09.26-23.47.24:974][ 79]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 2
+[2020.09.26-23.47.24:974][ 79]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 1
+[2020.09.26-23.47.26:190][132]MaterialEditorStats: Base pass shader: 134 instructions
+[2020.09.26-23.47.26:190][132]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 210 instructions
+[2020.09.26-23.47.26:190][132]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.09.26-23.47.26:190][132]MaterialEditorStats: Texture samplers: 5/16
+[2020.09.26-23.47.26:190][132]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.26-23.47.26:190][132]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.26-23.47.27:000][193]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.47.27:012][193]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.47.27:012][193]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.47.27:012][193]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.47.27:012][193]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.47.27:012][193]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.47.27:012][193]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.47.27:012][193]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.47.27:012][193]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.47.27:012][193]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.47.27:014][193]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.09.26-23.47.27:029][193]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.09.26-23.47.27:033][193]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.09.26-23.47.27:037][193]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.09.26-23.47.27:041][193]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.09.26-23.47.27:048][193]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.47.27:065][193]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.09.26-23.47.27:069][193]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.09.26-23.47.27:073][193]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.09.26-23.47.27:077][193]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.09.26-23.47.27:085][193]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.47.27:101][193]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 9
+[2020.09.26-23.47.27:101][193]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 8
+[2020.09.26-23.47.27:101][193]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 7
+[2020.09.26-23.47.27:101][193]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 6
+[2020.09.26-23.47.27:101][193]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 5
+[2020.09.26-23.47.27:101][193]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 4
+[2020.09.26-23.47.27:101][193]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 3
+[2020.09.26-23.47.27:101][193]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 2
+[2020.09.26-23.47.27:101][193]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 1
+[2020.09.26-23.47.27:101][193]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.09.26-23.47.27:105][193]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.09.26-23.47.27:109][193]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.09.26-23.47.27:113][193]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.09.26-23.47.27:121][193]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.47.27:128][193]LogSlate: Window '색 선택 툴' being destroyed
+[2020.09.26-23.47.28:296][259]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 25
+[2020.09.26-23.47.28:296][259]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 24
+[2020.09.26-23.47.28:296][259]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 23
+[2020.09.26-23.47.28:296][259]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 22
+[2020.09.26-23.47.28:296][259]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 21
+[2020.09.26-23.47.28:296][259]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 20
+[2020.09.26-23.47.28:296][259]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 19
+[2020.09.26-23.47.28:296][259]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 18
+[2020.09.26-23.47.28:296][259]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 17
+[2020.09.26-23.47.28:296][259]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 16
+[2020.09.26-23.47.30:113][363]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 15
+[2020.09.26-23.47.30:113][363]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 14
+[2020.09.26-23.47.30:113][363]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 13
+[2020.09.26-23.47.30:113][363]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 12
+[2020.09.26-23.47.30:313][377]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 11
+[2020.09.26-23.47.30:313][377]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 10
+[2020.09.26-23.47.30:313][377]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 9
+[2020.09.26-23.47.30:313][377]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 8
+[2020.09.26-23.47.30:313][377]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 7
+[2020.09.26-23.47.30:313][377]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 6
+[2020.09.26-23.47.30:313][377]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 5
+[2020.09.26-23.47.30:313][377]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 4
+[2020.09.26-23.47.30:313][377]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 3
+[2020.09.26-23.47.30:313][377]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 2
+[2020.09.26-23.47.30:313][377]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 1
+[2020.09.26-23.47.31:086][403]MaterialEditorStats: Base pass shader: 134 instructions
+[2020.09.26-23.47.31:086][403]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 210 instructions
+[2020.09.26-23.47.31:086][403]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.09.26-23.47.31:086][403]MaterialEditorStats: Texture samplers: 5/16
+[2020.09.26-23.47.31:086][403]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.26-23.47.31:087][403]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.26-23.47.32:143][482]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.09.26-23.47.32:148][482]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.09.26-23.47.32:151][482]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 4
+[2020.09.26-23.47.32:151][482]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 3
+[2020.09.26-23.47.32:151][482]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 2
+[2020.09.26-23.47.32:151][482]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 1
+[2020.09.26-23.47.32:151][482]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.09.26-23.47.32:155][482]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.09.26-23.47.32:162][482]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.47.32:199][484]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 21
+[2020.09.26-23.47.32:199][484]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 20
+[2020.09.26-23.47.32:199][484]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 19
+[2020.09.26-23.47.32:199][484]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 18
+[2020.09.26-23.47.32:199][484]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 17
+[2020.09.26-23.47.32:199][484]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 16
+[2020.09.26-23.47.32:199][484]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 15
+[2020.09.26-23.47.32:199][484]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 14
+[2020.09.26-23.47.32:199][484]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 13
+[2020.09.26-23.47.32:199][484]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 12
+[2020.09.26-23.47.32:199][484]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 11
+[2020.09.26-23.47.32:199][484]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 10
+[2020.09.26-23.47.32:199][484]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 9
+[2020.09.26-23.47.32:199][484]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 8
+[2020.09.26-23.47.32:199][484]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 7
+[2020.09.26-23.47.32:199][484]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 6
+[2020.09.26-23.47.32:199][484]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 5
+[2020.09.26-23.47.32:199][484]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 4
+[2020.09.26-23.47.32:199][484]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 3
+[2020.09.26-23.47.32:199][484]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 2
+[2020.09.26-23.47.32:199][484]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 1
+[2020.09.26-23.47.33:413][550]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.09.26-23.47.33:416][550]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.09.26-23.47.33:421][550]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.09.26-23.47.33:425][550]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.09.26-23.47.33:432][550]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.47.33:997][584]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.47.34:011][584]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.09.26-23.47.34:027][584]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.09.26-23.47.34:031][584]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.09.26-23.47.34:035][584]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.09.26-23.47.34:039][584]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.09.26-23.47.34:046][584]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.47.34:061][584]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.09.26-23.47.34:065][584]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.09.26-23.47.34:068][584]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.09.26-23.47.34:072][584]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.09.26-23.47.34:078][584]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.47.34:094][584]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.09.26-23.47.34:098][584]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.09.26-23.47.34:101][584]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.09.26-23.47.34:105][584]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.09.26-23.47.34:111][584]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.47.34:118][584]LogSlate: Window '색 선택 툴' being destroyed
+[2020.09.26-23.47.34:470][606]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 25
+[2020.09.26-23.47.34:470][606]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 24
+[2020.09.26-23.47.34:470][606]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 23
+[2020.09.26-23.47.34:875][631]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 22
+[2020.09.26-23.47.34:875][631]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 21
+[2020.09.26-23.47.34:875][631]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 20
+[2020.09.26-23.47.34:875][631]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 19
+[2020.09.26-23.47.34:875][631]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 18
+[2020.09.26-23.47.34:875][631]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 17
+[2020.09.26-23.47.34:875][631]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 16
+[2020.09.26-23.47.34:875][631]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 15
+[2020.09.26-23.47.34:875][631]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 14
+[2020.09.26-23.47.34:875][631]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 13
+[2020.09.26-23.47.34:875][631]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 12
+[2020.09.26-23.47.34:875][631]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 11
+[2020.09.26-23.47.34:875][631]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 10
+[2020.09.26-23.47.34:875][631]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 9
+[2020.09.26-23.47.34:875][631]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 8
+[2020.09.26-23.47.34:875][631]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 7
+[2020.09.26-23.47.34:875][631]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 6
+[2020.09.26-23.47.34:875][631]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 5
+[2020.09.26-23.47.34:876][631]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 4
+[2020.09.26-23.47.34:876][631]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 3
+[2020.09.26-23.47.35:411][660]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 2
+[2020.09.26-23.47.35:411][660]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 1
+[2020.09.26-23.47.36:125][682]MaterialEditorStats: Base pass shader: 134 instructions
+[2020.09.26-23.47.36:125][682]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 210 instructions
+[2020.09.26-23.47.36:125][682]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.09.26-23.47.36:125][682]MaterialEditorStats: Texture samplers: 5/16
+[2020.09.26-23.47.36:125][682]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.26-23.47.36:125][682]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.26-23.47.36:596][715]LogMaterialEditor: Saving and Compiling material M_Candle
+[2020.09.26-23.47.37:180][715]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.47.37:215][715]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.47.37:215][715]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.47.37:215][715]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.47.37:215][715]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.47.37:215][715]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.47.37:215][715]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.47.37:215][715]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.47.37:215][715]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.47.37:215][715]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.47.37:291][715]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.47.37:340][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.09.26-23.47.37:350][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.26-23.47.38:443][715]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 17
+[2020.09.26-23.47.38:443][715]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 16
+[2020.09.26-23.47.38:443][715]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 15
+[2020.09.26-23.47.38:443][715]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 14
+[2020.09.26-23.47.38:443][715]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 13
+[2020.09.26-23.47.38:443][715]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 12
+[2020.09.26-23.47.38:443][715]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 11
+[2020.09.26-23.47.38:443][715]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 10
+[2020.09.26-23.47.38:443][715]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 9
+[2020.09.26-23.47.38:443][715]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 8
+[2020.09.26-23.47.38:443][715]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 7
+[2020.09.26-23.47.38:443][715]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 6
+[2020.09.26-23.47.38:443][715]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 5
+[2020.09.26-23.47.38:443][715]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 4
+[2020.09.26-23.47.38:443][715]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 3
+[2020.09.26-23.47.38:443][715]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 2
+[2020.09.26-23.47.38:443][715]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 1
+[2020.09.26-23.47.38:450][715]TextureStreamingBuild: Display: Compiling optional shaders took 1.103 seconds.
+[2020.09.26-23.47.38:491][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.09.26-23.47.38:976][715]LogSavePackage: Moving 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Saved/M_Candle2A76FBA34883EC048BF583ACD036340A.tmp' to 'D:/2020 Works/2020 ARTWORKS/Practice/Migration_CH5/Content/Asset_Migrate/Candle/CustomAssets/Candles/M_Candle.uasset'
+[2020.09.26-23.47.38:997][715]AssetCheck: New page: 애셋 저장: M_Candle
+[2020.09.26-23.47.38:997][715]LogContentValidation: Display: Material /Game/Asset_Migrate/Candle/CustomAssets/Candles/M_Candle.M_Candle 유효성 검사
+[2020.09.26-23.47.39:003][715]MaterialEditorStats: Base pass shader: 134 instructions
+[2020.09.26-23.47.39:003][715]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 210 instructions
+[2020.09.26-23.47.39:003][715]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.09.26-23.47.39:003][715]MaterialEditorStats: Texture samplers: 6/16
+[2020.09.26-23.47.39:003][715]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.26-23.47.39:003][715]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.26-23.47.53:377][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.09.26-23.47.54:324][705]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.26-23.47.55:749][705]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.09.26-23.47.55:749][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.26-23.47.55:775][705]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_02.MI_Candles_02
+	Asset Name: /Game/Asset_Migrate/Candle/CustomAssets/Candles/MI_Candles_01.MI_Candles_01
+[2020.09.26-23.47.56:573][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.09.26-23.47.56:605][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.09.26-23.47.56:632][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.09.26-23.47.56:659][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.09.26-23.48.00:343][927]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.48.00:351][927]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.09.26-23.48.00:360][927]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.48.00:360][927]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.48.00:360][927]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.48.00:360][927]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.48.00:360][927]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.48.00:360][927]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.48.00:360][927]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.48.00:360][927]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.48.00:360][927]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.48.00:362][927]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.09.26-23.48.00:383][927]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.48.00:390][927]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.09.26-23.48.00:398][927]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.09.26-23.48.00:419][927]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.48.00:426][927]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.09.26-23.48.00:434][927]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.09.26-23.48.00:450][927]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.48.00:485][927]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 13
+[2020.09.26-23.48.00:485][927]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 12
+[2020.09.26-23.48.00:485][927]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 11
+[2020.09.26-23.48.00:485][927]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 10
+[2020.09.26-23.48.00:485][927]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 9
+[2020.09.26-23.48.00:485][927]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 8
+[2020.09.26-23.48.00:485][927]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 7
+[2020.09.26-23.48.00:485][927]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 6
+[2020.09.26-23.48.00:485][927]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 5
+[2020.09.26-23.48.00:485][927]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 4
+[2020.09.26-23.48.00:485][927]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 3
+[2020.09.26-23.48.00:485][927]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 2
+[2020.09.26-23.48.00:485][927]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 1
+[2020.09.26-23.48.00:491][927]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.09.26-23.48.00:495][927]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.09.26-23.48.00:499][927]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.09.26-23.48.00:771][936]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 12
+[2020.09.26-23.48.00:771][936]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 11
+[2020.09.26-23.48.00:771][936]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 10
+[2020.09.26-23.48.00:771][936]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 9
+[2020.09.26-23.48.00:771][936]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 8
+[2020.09.26-23.48.00:771][936]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 7
+[2020.09.26-23.48.01:502][964]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 6
+[2020.09.26-23.48.01:529][965]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 5
+[2020.09.26-23.48.01:530][965]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 4
+[2020.09.26-23.48.02:006][975]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 3
+[2020.09.26-23.48.02:268][987]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 2
+[2020.09.26-23.48.02:268][987]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 1
+[2020.09.26-23.48.02:831][ 20]MaterialEditorStats: Base pass shader: 134 instructions
+[2020.09.26-23.48.02:831][ 20]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 210 instructions
+[2020.09.26-23.48.02:831][ 20]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.09.26-23.48.02:831][ 20]MaterialEditorStats: Texture samplers: 5/16
+[2020.09.26-23.48.02:831][ 20]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.26-23.48.02:831][ 20]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.26-23.48.06:896][329]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.48.06:907][329]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 9
+[2020.09.26-23.48.06:907][329]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 8
+[2020.09.26-23.48.06:907][329]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 7
+[2020.09.26-23.48.06:907][329]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 6
+[2020.09.26-23.48.06:907][329]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 5
+[2020.09.26-23.48.06:907][329]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2020.09.26-23.48.06:907][329]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 3
+[2020.09.26-23.48.06:907][329]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 2
+[2020.09.26-23.48.06:907][329]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 1
+[2020.09.26-23.48.06:909][329]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.09.26-23.48.06:918][329]LogMaterial: Display: Missing cached shader map for material M_Candle, compiling. 
+[2020.09.26-23.48.07:008][334]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 13
+[2020.09.26-23.48.07:008][334]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 12
+[2020.09.26-23.48.07:008][334]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 11
+[2020.09.26-23.48.07:008][334]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 10
+[2020.09.26-23.48.07:008][334]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 9
+[2020.09.26-23.48.07:008][334]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 8
+[2020.09.26-23.48.07:008][334]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 7
+[2020.09.26-23.48.07:008][334]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 6
+[2020.09.26-23.48.07:008][334]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 5
+[2020.09.26-23.48.07:008][334]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 4
+[2020.09.26-23.48.07:008][334]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 3
+[2020.09.26-23.48.07:008][334]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 2
+[2020.09.26-23.48.07:008][334]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 1
+[2020.09.26-23.48.08:028][374]MaterialEditorStats: Base pass shader: 134 instructions
+[2020.09.26-23.48.08:028][374]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 210 instructions
+[2020.09.26-23.48.08:028][374]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.09.26-23.48.08:028][374]MaterialEditorStats: Texture samplers: 5/16
+[2020.09.26-23.48.08:028][374]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.09.26-23.48.08:028][374]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.26-23.48.17:521][ 31]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.09.26-23.48.18:212][ 31]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.690 s
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: === Handled ensure: ===
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: 
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: Ensure condition failed: !bResult || OutValue == OldValue [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/Engine/Private/Materials/Material.cpp] [Line: 2351]
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: UMaterial::GetTextureParameterValue() mismatch, OutValue: T_Candles_01_N, OldValue: T_Candles_01_R
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: Stack: 
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbe82fb47c UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbe7385d05 UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbe73a83d4 UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbe73b0c86 UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbe739036c UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbe73921ad UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbe739286f UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbf0538357 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbea7ffc59 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbea7e8540 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbea7e8aaf UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbea840978 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbea93c527 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbea8f60af UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbeee41f8f UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbeef4dbe6 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbeef4eff8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbeee599e4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbeeca061b UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbeed0d561 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbeed00f16 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbef1c7c25 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbef1b5c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbef1ca609 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbef1b17d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffcb2b35c7d USER32.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffcb2b35672 USER32.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffbef1cbb24 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ff7417e68c4 UE4Editor.exe!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ff7417fba7c UE4Editor.exe!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ff7417fbb5a UE4Editor.exe!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ff74180e31d UE4Editor.exe!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ff74181145a UE4Editor.exe!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffcb1027bd4 KERNEL32.DLL!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: [Callstack] 0x00007ffcb2d6ce51 ntdll.dll!UnknownFunction []
+[2020.09.26-23.48.18:212][ 31]LogOutputDevice: Error: 
