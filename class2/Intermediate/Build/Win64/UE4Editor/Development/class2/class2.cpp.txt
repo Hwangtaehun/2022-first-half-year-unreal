@@ -1,2 +1,0 @@
-C:\Users\r283\Desktop\game\class2\Intermediate\Build\Win64\UE4Editor\Development\class2\Definitions.class2.h
-C:\Users\r283\Desktop\game\class2\Source\class2\class2.h

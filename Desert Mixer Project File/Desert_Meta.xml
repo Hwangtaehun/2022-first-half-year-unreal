@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StudioProjectMetaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" PresetVersion="1">
+  <StudioAssetMetas>
+    <StudioAssetMeta>
+      <Name>Sand</Name>
+      <MixerXMLPath>D:\MegascanBridge\Projects\Desert\Sand\Sand.xml</MixerXMLPath>
+      <MixerVersion>2020.1.5</MixerVersion>
+      <MixPresetVersion>12</MixPresetVersion>
+      <SaveTime>2020-09-18T00:41:50.2573324+09:00</SaveTime>
+    </StudioAssetMeta>
+    <StudioAssetMeta>
+      <Name>Sand_Mixer</Name>
+      <MixerXMLPath>D:\MegascanBridge\Projects\Desert\Sand_Mixer\Sand_Mixer.xml</MixerXMLPath>
+      <MixerVersion>2020.1.5</MixerVersion>
+      <MixPresetVersion>12</MixPresetVersion>
+      <SaveTime>2020-09-23T17:30:44.374129+09:00</SaveTime>
+    </StudioAssetMeta>
+  </StudioAssetMetas>
+</StudioProjectMetaData>
